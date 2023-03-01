@@ -1,7 +1,7 @@
 .banner {
 	background-image : linear-gradient(-225deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.2) 50%), url(../../images/background.jpg);
 	color: white;
-	padding: 170px 0px;
+	padding: 150px 0px;
 	background-size:  cover;
 	background-position:  center;
 }
